@@ -1,0 +1,100 @@
+### To block ads, updates the hosts file and block following URLs
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+127.0.0.1	*.onclickads.net
+127.0.0.1	googleads.g.doubleclick.net
+127.0.0.1	*.doubleclick.net
+127.0.0.1	tpc.googlesyndication.com
+127.0.0.1	*.googlesyndication.com
+127.0.0.1	*.googleadservices.com
+127.0.0.1	pagead.googlesyndication.com
+127.0.0.1	pagead2.googlesyndication.com #[Google AdWords]
+127.0.0.1	adservices.google.com
+127.0.0.1	imageads.googleadservices.com #[Ewido.TrackingCookie.Googleadservices]
+127.0.0.1	imageads1.googleadservices.com
+127.0.0.1	imageads2.googleadservices.com
+127.0.0.1	imageads3.googleadservices.com
+127.0.0.1	imageads4.googleadservices.com
+127.0.0.1	imageads5.googleadservices.com
+127.0.0.1	imageads6.googleadservices.com
+127.0.0.1	imageads7.googleadservices.com
+127.0.0.1	imageads8.googleadservices.com
+127.0.0.1	imageads9.googleadservices.com
+127.0.0.1	partner.googleadservices.com
+127.0.0.1	www.googleadservices.com
+127.0.0.1	apps5.oingo.com #[Microsoft.Typo-Patrol]
+127.0.0.1	www.appliedsemantics.com
+127.0.0.1	service.urchin.com #[Urchin Tracking Module]
+127.0.0.1	ssl.google-analytics.com #[urchinTracker]
+
+# [Google Inc]
+127.0.0.1	pagead.googlesyndication.com
+127.0.0.1	pagead2.googlesyndication.com #[Google AdWords]
+127.0.0.1	adservices.google.com
+127.0.0.1	ssl.google-analytics.com #[urchinTracker]
+
+127.0.0.1	imageads.googleadservices.com #[Ewido.TrackingCookie.Googleadservices]
+127.0.0.1	imageads1.googleadservices.com
+127.0.0.1	imageads2.googleadservices.com
+127.0.0.1	imageads3.googleadservices.com
+127.0.0.1	imageads4.googleadservices.com
+127.0.0.1	imageads5.googleadservices.com
+127.0.0.1	imageads6.googleadservices.com
+127.0.0.1	imageads7.googleadservices.com
+127.0.0.1	imageads8.googleadservices.com
+127.0.0.1	imageads9.googleadservices.com
+127.0.0.1	partner.googleadservices.com
+127.0.0.1	www.googleadservices.com
+127.0.0.1	apps5.oingo.com #[Microsoft.Typo-Patrol]
+127.0.0.1	www.appliedsemantics.com
+127.0.0.1	service.urchin.com #[Urchin Tracking Module]
+127.0.0.1	pagead.googlesyndication.com
+127.0.0.1	pagead2.googlesyndication.com #[Google AdWords]
+127.0.0.1	adservices.google.com
+127.0.0.1	ssl.google-analytics.com #[urchinTracker]
+
+127.0.0.1	imageads.googleadservices.com #[Ewido.TrackingCookie.Googleadservices]
+127.0.0.1	imageads1.googleadservices.com
+127.0.0.1	imageads2.googleadservices.com
+127.0.0.1	imageads3.googleadservices.com
+127.0.0.1	imageads4.googleadservices.com
+127.0.0.1	imageads5.googleadservices.com
+127.0.0.1	imageads6.googleadservices.com
+127.0.0.1	imageads7.googleadservices.com
+127.0.0.1	imageads8.googleadservices.com
+127.0.0.1	imageads9.googleadservices.com
+127.0.0.1	partner.googleadservices.com
+127.0.0.1	www.googleadservices.com
+127.0.0.1	apps5.oingo.com #[Microsoft.Typo-Patrol]
+127.0.0.1	www.appliedsemantics.com
+127.0.0.1	service.urchin.com #[Urchin Tracking Module]
+#Other Ad servers
+127.0.0.1	a.rad.msn.com 
+127.0.0.1	ad.uk.doubleclick.net 
+127.0.0.1	ad.yieldmanager.com 
+127.0.0.1	ads.dennisnet.co.uk 
+127.0.0.1	alexa.com 
+127.0.0.1	b.rad.msn.com 
+127.0.0.1	blogads.com 
+127.0.0.1	bs.serving-sys.com 
+127.0.0.1	buttons.googlesyndication.com 
+127.0.0.1	doubleclick.net 
+127.0.0.1	exponential.com 
+127.0.0.1	google-analytics.com 
+127.0.0.1	googlesyndication.com 
+127.0.0.1	intelli-direct.com 
+127.0.0.1	intellitxt.com 
+127.0.0.1	pagead2.googlesyndication.com 
+127.0.0.1	rad.msn.com 
+127.0.0.1	rmxads.com 
+127.0.0.1	ssl.google-analytics.com 
+127.0.0.1	xpcs.ads.yahoo.com 
+127.0.0.1	yieldmanager.com
+127.0.0.1	adclick.g.doubleclick.net
+127.0.0.1   *video*.fbcdn.net*
+127.0.0.1   adserver.adtech.de
+127.0.0.1   static.clmbtech.com
+127.0.0.1   ade.clmbtech.com
+127.0.0.1   img.etimg.com
+127.0.0.1   ads.rediff.com
